@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roblox Chat Unlocker</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header>
+    <h1>Roblox Chat Unlocker</h1>
+    <p>Professional simulation tool — try the free demo or upgrade to full access</p>
+  </header>
+
+  <main>
+    <div class="cards-container">
+      <!-- Free Demo Card -->
+      <div class="card demo">
+        <h2>Free Demo</h2>
+        <p>Try it now! Download and run locally.</p>
+        <a href="downloads/roblox_chat_unlocker_demo.py" download class="btn">Download Demo</a>
+      </div>
+
+      <!-- Pay Option 1 -->
+      <div class="card pay">
+        <h2>Standard</h2>
+        <p>Full access to all features. $9.99</p>
+        <a href="#" class="btn">Buy Now</a>
+      </div>
+
+      <!-- Pay Option 2 -->
+      <div class="card pay">
+        <h2>Pro</h2>
+        <p>Includes premium features and priority support. $19.99</p>
+        <a href="#" class="btn">Buy Now</a>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Roblox Chat Unlocker. All rights reserved.</p>
+  </footer>
+</body>
+</html>
